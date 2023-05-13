@@ -11,8 +11,10 @@
 
 <body>
     <h2 style="text-align: center"> Laravel and React application </h2>
-    <div id="root"></div>
-    <script src="{{mix('js/app.js')}}"></script>
+    <div id="root">
+
+    </div>
+    <script></script>
     @vite('resources/js/app.js')
 </body>
 
